@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #e72b2b;
+    background-color: #ccc;
+    border: 2px #e72b2b solid;
+    border-top-style: dotted;
+    border-top-color: black;
+    border-width: 5px;
+}
+
+p{
+text-align: justify;
+margin: 0 10% 0 10%;
+border: #e72b2b solid 2px;
+padding: 8% 0px;
+}
+
+#p01{
+    top: 20%;
+    width: 10%;
+    overflow: hidden;
+    position: absolute;
+    margin: auto;
+    text-align: center;    
+}
+
+a{
+    margin: 0px 10%;
+    text-decoration: none;
+    padding: 15%;
+}
