@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #e90d0d;
+    background-color: rgb(183, 178, 178);
+    border-radius: 10px;
+    border: solid 2px red;
+    border-top-style:dotted;
+    border-top-color:black ;
+    border-width: 5px;
+}
+p{
+    text-align: justify;
+    margin: 0 10% 0 10%;
+}
